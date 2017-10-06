@@ -2,6 +2,7 @@ def solution(A):
     N = len(A)
     T = N * (N + 1) // 2
     detect = [False] * N
+
     for i in A:
         if 0 <= i > N:
             return 0

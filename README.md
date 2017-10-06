@@ -23,7 +23,7 @@ Counting Elements - [Reading Material](https://codility.com/media/train/2-Counti
  * [Painless] [PermCheck](https://github.com/fauzana/codility/blob/master/PermCheck.py) ✅
  * [Painless] [FrogRiverOne](https://github.com/fauzana/codility/blob/master/FrogRiverOne.py) ✅
  * [Painless] [MissingInteger](https://github.com/fauzana/codility/blob/master/MissingInteger.py) ✅
- * [Respectable] MaxCounters
+ * [Respectable] [MaxCounters](https://github.com/fauzana/codility/blob/master/MaxCounters.py) ✅
 
 #### Lesson 5
 Prefix Sums

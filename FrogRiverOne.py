@@ -5,7 +5,7 @@ def solution(X, A):
     for i in xrange(len(A)):
         if isJump[A[i] - 1] == False:
             isJump[A[i] - 1] = True
-            path = path - 1
+            path -= 1
             if path == 0:
                 return i
     return -1

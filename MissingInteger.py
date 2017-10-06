@@ -8,7 +8,7 @@ def solution(A):
         if seen[idx] == False:
             return idx + 1
  
-    return len(A)+1
+    return len(A) + 1
 
 print solution([1, 3, 6, 4, 1, 2])
 print solution([1, 2, 3])

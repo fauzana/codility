@@ -6,9 +6,3 @@ def solution(A, K):
 
 print(solution( [3, 8, 9, 7, 6], 3 ))
 print(solution( [-1000, 5], 2 ))
-# ([-9, 0], 2) the solution returned a wrong answer (got [0, -9] expected [-9, 0]).
-#print(solution( [3, 8, 9, 7, 6], 3 ))
-#print(solution( [3, 8, 9, 7, 6], 3 ))
-#print(solution( [3, 8, 9, 7, 6], 3 ))
-#print(solution( [3, 8, 9, 7, 6], 3 ))
-#print(solution( [3, 8, 9, 7, 6], 3 ))
