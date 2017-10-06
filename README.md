@@ -14,13 +14,13 @@ Arrays
 Time Complexity
  * [Painless] PermMissingElem ✅
  * [Painless] FrogJmp ✅
- * [Painless] TapeEquilibrium
+ * [Painless] TapeEquilibrium ✅
 
 ##### Lesson 4
 Counting Elements
  * [Painless] PermCheck
  * [Painless] FrogRiverOne
- * [Painless] MissingInteger
+ * [Painless] MissingInteger ✅
  * [Respectable] MaxCounters
 
 Lesson 5
