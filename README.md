@@ -26,8 +26,8 @@ Counting Elements - [Reading Material](https://codility.com/media/train/2-Counti
  * [Respectable] [MaxCounters](https://github.com/fauzana/codility/blob/master/MaxCounters.py) ✅
 
 #### Lesson 5
-Prefix Sums
- * [Painless] CountDiv
+Prefix Sums - [Reading Material](https://codility.com/media/train/3-PrefixSums.pdf)
+ * [Painless] [CountDiv](https://github.com/fauzana/codility/blob/master/CountDiv.py) ✅
  * [Painless] PassingCars
  * [Respectable] GenomicRangeQuery
  * [Respectable] MinAvgTwoSlice
