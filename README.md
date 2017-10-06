@@ -18,7 +18,7 @@ Time Complexity
 
 ##### Lesson 4
 Counting Elements
- * [Painless] PermCheck
+ * [Painless] PermCheck ✅
  * [Painless] FrogRiverOne
  * [Painless] MissingInteger ✅
  * [Respectable] MaxCounters
