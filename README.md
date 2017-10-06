@@ -1,26 +1,28 @@
 # codility
 Yet Another Coding Excercise
 
+--
+
 ##### Lesson 1
-Iterations
- * [Painless] BinaryGap ✅
+Iterations - [Reading Material](https://codility.com/media/train/Iterations.pdf)
+ * [Painless] [BinaryGap](https://github.com/fauzana/codility/blob/master/BinaryGap.py) ✅
 
 ##### Lesson 2
-Arrays
- * [Painless] OddOccurrencesInArray ✅
- * [Painless] CyclicRotation ✅
+Arrays - [Reading Material](https://codility.com/media/train/0-Arrays.pdf)
+ * [Painless] [OddOccurrencesInArray](https://github.com/fauzana/codility/blob/master/OddOccurrencesInArray.py) ✅
+ * [Painless] [CyclicRotation](https://github.com/fauzana/codility/blob/master/CyclicRotation.py) ✅
 
 ##### Lesson 3
-Time Complexity
- * [Painless] PermMissingElem ✅
- * [Painless] FrogJmp ✅
- * [Painless] TapeEquilibrium ✅
+Time Complexity - [Reading Material](https://codility.com/media/train/1-TimeComplexity.pdf)
+ * [Painless] [PermMissingElem](https://github.com/fauzana/codility/blob/master/PermMissingElem.py) ✅
+ * [Painless] [FrogJmp](https://github.com/fauzana/codility/blob/master/FrogJmp.py) ✅
+ * [Painless] [TapeEquilibrium](https://github.com/fauzana/codility/blob/master/TapeEquilibrium.py) ✅
 
 ##### Lesson 4
-Counting Elements
- * [Painless] PermCheck ✅
+Counting Elements - [Reading Material](https://codility.com/media/train/2-CountingElements.pdf)
+ * [Painless] [PermCheck](https://github.com/fauzana/codility/blob/master/PermCheck.py) ✅
  * [Painless] FrogRiverOne
- * [Painless] MissingInteger ✅
+ * [Painless] [MissingInteger](https://github.com/fauzana/codility/blob/master/MissingInteger.py) ✅
  * [Respectable] MaxCounters
 
 Lesson 5
